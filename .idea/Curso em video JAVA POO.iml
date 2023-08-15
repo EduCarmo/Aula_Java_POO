@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.metadata" />
+      <excludeFolder url="file://$MODULE_DIR$/ProjetoLivro/out" />
+      <excludeFolder url="file://$MODULE_DIR$/ProjetoPessoas/out" />
+      <excludeFolder url="file://$MODULE_DIR$/ProjetoYoutube/out" />
+      <excludeFolder url="file://$MODULE_DIR$/UltraEmojiCombat/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula02/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/aula02/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula03/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula04/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula05/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula06/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula11/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula12/out" />
+      <excludeFolder url="file://$MODULE_DIR$/aula13/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
